@@ -1,3 +1,5 @@
+## 绘制一个胖次
+
 xrange = c(-15, 15)
 yrange = c(0, 16)
 #plot(0, xlim = xrange, ylim = yrange, type = "n")
